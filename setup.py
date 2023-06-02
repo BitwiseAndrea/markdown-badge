@@ -26,5 +26,5 @@ setup(
         'Topic :: Text Processing :: Markup :: HTML',
     ],
     py_modules=["markdown-badge"],  
-    install_requires=["markdown>=3.0", "unittest"],
+    install_requires=["markdown>=3.0"],
 )
