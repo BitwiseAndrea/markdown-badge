@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="markdown-badge",
-    version="1.0.1",
+    version="1.0.2",
     description='Extension for python-markdown that adds markdown syntax for badges.',
     long_description=README,
     long_description_content_type="text/markdown",
