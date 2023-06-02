@@ -1,0 +1,1 @@
+from .badge import makeExtension, BadgeExtension
